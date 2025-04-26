@@ -53,7 +53,10 @@ pie
 
 ## 📷 Screenshots
 
-
+### Full Page Pict
+<div align="center">
+  <img src="screenshoot/full page.png" width="70%" alt="full page">
+</div>
 
 ### 📱 Mobile Mode
 <div align="center">
