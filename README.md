@@ -214,5 +214,4 @@ Dilarang menggunakan projek ini untuk:
 
 ---
 
-**🎨 "Kode yang indah adalah seni yang fungsional"**  
-**🔥 Happy Coding!** 🔥
+
