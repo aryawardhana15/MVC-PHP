@@ -57,7 +57,7 @@ pie
 
 ### 📱 Mobile Mode
 <div align="center">
-  <img src="screenshoot/mobile mode.png" width="40%" alt="Mobile Mode">
+  <img src="screenshoot/mobile mode.png" width="70%" alt="Mobile Mode">
 </div>
 
 ### 🔍 Search Fitur
