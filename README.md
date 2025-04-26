@@ -53,14 +53,11 @@ pie
 
 ## 📷 Screenshots
 
-### 📤 Export
-<div align="center">
-  <img src="screenshoot/export.png" width="70%" alt="Export">
-</div>
+
 
 ### 📱 Mobile Mode
 <div align="center">
-  <img src="screenshoot/mobile mode.png" width="40%" alt="Mobile Mode">
+  <img src="screenshoot/mobile mode.png" width="70%" alt="Mobile Mode">
 </div>
 
 ### 🔍 Search Fitur
@@ -201,18 +198,17 @@ Dilarang menggunakan projek ini untuk:
 ## **💌 Kontak & Dukungan**
 
 <div align="center">
-  <a href="mailto:email@anda.com">
+  <a href="mailto:aryawardhana1@ub.ac.id">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/username">
+  <a href="https://github.com/aryawardhana15">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/username">
+  <a href="https://linkedin.com/in/Muhammad Alhafiz Arya Wardhana">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
 ---
 
-**🎨 "Kode yang indah adalah seni yang fungsional"**  
-**🔥 Happy Coding!** 🔥
+
