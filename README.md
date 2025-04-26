@@ -53,10 +53,7 @@ pie
 
 ## 📷 Screenshots
 
-### 📤 Export
-<div align="center">
-  <img src="screenshoot/export.png" width="70%" alt="Export">
-</div>
+
 
 ### 📱 Mobile Mode
 <div align="center">
