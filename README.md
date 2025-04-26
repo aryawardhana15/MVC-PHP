@@ -50,12 +50,41 @@ pie
 
 ## **🖼️ Screenshot Aplikasi**
 
+## 📷 Screenshots
+
+### 🌑 Dark Mode
 <div align="center">
-  <img src="screenshots/dashboard-light.jpg" width="45%" alt="Dashboard Light Mode">
-  <img src="screenshots/dashboard-dark.jpg" width="45%" alt="Dashboard Dark Mode">
-  
-  <img src="screenshots/form-edit.jpg" width="45%" alt="Form Edit Data">
-  <img src="screenshots/mobile-view.jpg" width="20%" alt="Tampilan Mobile">
+  <img src="screenshoot/dark mode.png" width="70%" alt="Dark Mode">
+</div>
+
+### ✏️ Edit Data
+<div align="center">
+  <img src="screenshoot/edit data.png" width="70%" alt="Edit Data">
+</div>
+
+### 📤 Export Fitur
+<div align="center">
+  <img src="screenshoot/export fitur.png" width="70%" alt="Export Fitur">
+</div>
+
+### 🔎 Filter Data
+<div align="center">
+  <img src="screenshoot/filter data.png" width="70%" alt="Filter Data">
+</div>
+
+### 🔍 Search Fitur
+<div align="center">
+  <img src="screenshoot/search fitur.png" width="70%" alt="Search Fitur">
+</div>
+
+### ➕ Tambah Data
+<div align="center">
+  <img src="screenshoot/tambah data.png" width="70%" alt="Tambah Data">
+</div>
+
+### 📱 Mobile Version
+<div align="center">
+  <img src="screenshoot/mobile version.png" width="40%" alt="Mobile Version">
 </div>
 
 ---
